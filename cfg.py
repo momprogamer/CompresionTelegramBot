@@ -1,7 +1,7 @@
 """Configuraciones del BOT"""
-API_HASH = ''
-API_ID = 
-BOT_TOKEN = ''
-BOT_NAME = ''
+API_HASH = 'a86730aab5c59953c424abb4396d32d5'
+API_ID = 14681595
+BOT_TOKEN = '7725269349:AAGuTEMxnYYre1AA4BcO-_RL7N7Rz-cI3iU'
+BOT_NAME = '@DICIPLINE_TG_BOT'
 BOT_URL = f'https://{BOT_NAME}.herokuapp.com'
 TIME_WAKE = 10
